@@ -4,3 +4,6 @@ export const greeting =[
 ]
 
 console.log("also test")
+// ......................................................
+
+const content = document.getElementById("content")
