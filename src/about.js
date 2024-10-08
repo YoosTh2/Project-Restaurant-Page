@@ -1,0 +1,1 @@
+export const about_testing = ('about.js is working fine')

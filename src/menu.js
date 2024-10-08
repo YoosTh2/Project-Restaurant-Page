@@ -1,0 +1,1 @@
+export const menu_testing = ("menu.js is working fine")

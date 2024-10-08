@@ -1,6 +1,6 @@
 // script.js
 export const greeting =[
-    'nigger', 'test'
+    'just test in arrray', 'test'
 ]
 
 console.log("also test")
